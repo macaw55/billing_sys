@@ -1,0 +1,14 @@
+               ---Welcome to vanigames---               
+                 ---Today's Purchases---                  
+                                Transaction Number1 
+ ITEM CODE      ITEM NAME       MRPSALE PRICE   SAVING
+-------------------------------------------------------
+         1   gta vicecity       200       175        25
+         1   gta vicecity       200       175        25
+         1   gta vicecity       200       175        25
+         1   gta vicecity       200       175        25
+         1   gta vicecity       200       175        25
+-------------------------------------------------------
+            Total Amount:      1000       875       125
+TODAY'S SAVINGS: 125
+             ******THANK YOU VISIT AGAIN******             
